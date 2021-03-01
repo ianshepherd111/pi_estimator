@@ -1,3 +1,3 @@
-# pi_estimator
+# Pi estimation program
 
-Code to estimate the value of Pi by numerical integration using either a circle or a sphere and randomly generated coordinates.
+A monte carlo numerical integration program to estimate the value of Pi by using either a circle or a sphere and randomly generated coordinates.
